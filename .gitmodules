@@ -1,4 +1,4 @@
 [submodule "sub_poc_test"]
 	path = sub_poc_test
-	url = ssh://`ls`foo.example.com/bar
+	url = ssh://`ls`foo.example.com/bar 3
 
